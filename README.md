@@ -1,2 +1,4 @@
-# k8s-certified-admin
-Kubernetes Certified Admin
+# Kubernetes Exam Prep and Tips
+---
+
+![](images/certs.png)

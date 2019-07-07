@@ -1,0 +1,9 @@
+# Kubernetes Troubleshooting Applications 
+https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/
+
+# Kubernetes External Traffic Policies
+https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies
+
+
+
+
