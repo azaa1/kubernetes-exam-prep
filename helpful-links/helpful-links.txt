@@ -1,3 +1,9 @@
+# CNCF/curriculum (github)
+https://github.com/cncf/curriculum
+
+# Ultimate Guide to Passing CKA Exam 
+https://medium.com/@ContinoHQ/the-ultimate-guide-to-passing-the-cka-exam-1ee8c0fd44cd
+
 # Kubernetes Troubleshooting Applications 
 https://kubernetes.io/docs/tasks/debug-application-cluster/debug-application/
 
