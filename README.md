@@ -1,4 +1,4 @@
 # Kubernetes Exam Prep and Tips
 ---
 
-                       ![](images/certs.png)
+<img src="images/certs.png" width=800 /> ![](images/certs.png)
